@@ -25,6 +25,17 @@ License
 
 ## Latest Version
 
+- [2.0.0](/versions/2.0.0/README.md)
+    - Changed favorite field datatype in CustomViews.
+    - Changed tabTraversal field datatype in Layouts Sections.
+    - Support for the following new APIs.
+        - CustomViews
+            - [Change Sort Order of Custom Views](https://www.zoho.com/crm/developer/docs/api/v6/sort-order-cv.html)
+        - Users
+            - [Users Count](https://www.zoho.com/crm/developer/docs/api/v6/users-count.html)
+        - Features
+            - [User Licences Count](https://www.zoho.com/crm/developer/docs/api/v6/get-user-licences.html)
+
 - [1.0.0](/versions/1.0.0/README.md)
     - Ruby SDK upgraded to support v6 APIs.
     - Ruby SDK improved to support the following new APIs
