@@ -25,6 +25,10 @@ License
 
 ## Latest Version
 
+- [3.0.0](/versions/3.0.0/README.md)
+    - Changed phone and mobile field datatype in Users.
+    - Added new moveAttachmentsTo field in LeadConverter class.
+
 - [2.0.0](/versions/2.0.0/README.md)
     - Changed favorite field datatype in CustomViews.
     - Changed tabTraversal field datatype in Layouts Sections.
@@ -53,7 +57,7 @@ For older versions, please [refer](https://github.com/zoho/zohocrm-ruby-sdk-6.0/
 ## Including the SDK in your project
 You can include the SDK to your project using:
 
-- For including the latest [version](https://github.com/zoho/zohocrm-ruby-sdk-6.0/releases/tag/2.0.0)
+- For including the latest [version](https://github.com/zoho/zohocrm-ruby-sdk-6.0/releases/tag/3.0.0)
 
     - Ruby SDK is available through Gem . You can download the gem using:
 
@@ -100,4 +104,4 @@ You can include the SDK to your project using:
             gem install tzinfo
             ```
 
-For more details, kindly refer [here](/versions/2.0.0/README.md).
+For more details, kindly refer [here](/versions/3.0.0/README.md).
